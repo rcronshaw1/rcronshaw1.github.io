@@ -12,7 +12,5 @@ Robert Cronshaw is an academic radiologist, hononary clinical lecturer and PhD c
 
 Research interests include modelling risk and pre-test probability using multimodal approaches, use of large scale real world imaging datasets, medical generative AI, and realistic radiology. He believes AI should has the potential to transform healthcare, but only if it focusses on creating bespoke solutions to genuine clinical problems, rather than fitting the problem to the solution.
 
-Acknowledgements
-------
-This page was created using a template from [Academic Pages](https://academicpages.github.io/)
+
 
