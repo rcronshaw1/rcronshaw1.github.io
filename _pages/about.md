@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Robert Cronshaw is an academic radiologist, hononary clinical lecturer and PhD candidate with the [University of Edinburgh's clinical academic track (ECAT) programme](https://medicine-vet-medicine.ed.ac.uk/our-research/cmvm-research-support/translation-commercialisation/edinburgh-clinical-academic-track/ecat-i). He received his undergraduate medical degree (2019) and a first class intercalated MSci (2016) in Biochemistry from the University of Cambridge, has since completed foundation training in Glasgow, and is now an honorary radiology registrar in Edinburgh. 
+Robert Cronshaw is an academic radiologist, hononary clinical lecturer and PhD candidate with the [University of Edinburgh's clinical academic track (ECAT) programme](https://medicine-vet-medicine.ed.ac.uk/our-research/cmvm-research-support/translation-commercialisation/edinburgh-clinical-academic-track/ecat-i). He received his undergraduate medical degree (2019) and a first class intercalated MSci (2016) in Biochemistry from the University of Cambridge. He has since completed foundation training in Glasgow, and is now an honorary radiology registrar in Edinburgh. 
 
-Research interests include modelling risk and pre-test probability using multimodal approaches, generative AI in radiology, and realistic radiology.  
+Research interests include modelling risk and pre-test probability using multimodal approaches, use of large scale real world imaging datasets, medical generative AI, and realistic radiology.  
 
 
 
