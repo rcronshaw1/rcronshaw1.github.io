@@ -20,7 +20,7 @@ repository               : "rcronshaw1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2328.png"
+  avatar           : "profile.jpg"
   name             : "Dr Robert Cronshaw"
   pronouns         : # example: "he/him"  
   bio              : "Academic radiologist, aspiring machine learning researcher, occasional triathlete"
